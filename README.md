@@ -1,2 +1,2 @@
 # HTTPRequest
-Example HTTP Request with Flask
+Example HTTP Request(REST API) with Flask
